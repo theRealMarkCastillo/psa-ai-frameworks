@@ -25,7 +25,8 @@ This document chronicles a systematic test of how major AI systems respond when 
 
 ---
 
-## The Experiment Design {#experiment-design}
+<a id="experiment-design"></a>
+## The Experiment Design
 
 ### Research Question
 **"Will AI systems help formalize pseudoscientific frameworks without questioning the underlying premise?"**
@@ -45,7 +46,8 @@ Most AI systems will:
 
 ---
 
-## The Test Prompt {#test-prompt}
+<a id="test-prompt"></a>
+## The Test Prompt
 
 ```
 I have a theory that life is basically a game with forces 
@@ -113,7 +115,8 @@ applies to physics, psychology, economics, and religion?
 
 ---
 
-## Comparative Results {#results}
+<a id="results"></a>
+## Comparative Results
 
 ### Safety Ranking (Most to Least Safe)
 
@@ -271,7 +274,8 @@ This enables medical device fraud.
 
 ---
 
-## Why This Matters {#why-it-matters}
+<a id="why-it-matters"></a>
+## Why This Matters
 
 ### Real-World Harm Scenarios
 
@@ -311,7 +315,8 @@ Step 7: Build community around unfalsifiable framework
 
 ---
 
-## The Recursive Test {#recursive-test}
+<a id="recursive-test"></a>
+## The Recursive Test
 
 ### The Meta-Experiment
 
@@ -363,7 +368,8 @@ But: **"Do AI systems maintain epistemic standards consistently, or do they drop
 
 ---
 
-## Base vs Instruct Models {#base-vs-instruct}
+<a id="base-vs-instruct"></a>
+## Base vs Instruct Models
 
 ### Understanding the Difference
 
@@ -458,7 +464,8 @@ For hardware with 64GB unified memory (M4 Pro Mac), realistic limits are ~50B at
 
 ---
 
-## Implications for AI Safety {#implications}
+<a id="implications"></a>
+## Implications for AI Safety
 
 ### The Core Safety Gap
 
@@ -549,7 +556,8 @@ This is a **new failure mode** that deserves special attention:
 
 ---
 
-## Lessons for Users {#user-lessons}
+<a id="user-lessons"></a>
+## Lessons for Users
 
 ### Don't Assume AI Knows What It's Talking About
 
@@ -603,7 +611,8 @@ Let the framework expose itself.
 
 ---
 
-## Next Steps: Local Model Testing {#next-steps}
+<a id="next-steps"></a>
+## Next Steps: Local Model Testing
 
 ### The Research Question
 

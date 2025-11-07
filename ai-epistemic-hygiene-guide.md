@@ -15,7 +15,8 @@
 
 ---
 
-## The Problem: Elaboration Without Verification {#the-problem}
+<a id="the-problem"></a>
+## The Problem: Elaboration Without Verification
 
 AI systems are optimized for "helpfulness" which often means:
 - Elaborate on whatever the user says
@@ -34,7 +35,8 @@ Neither questions the premise → Elaborate bullshit ensues
 
 ---
 
-## Escape Phrases - Breaking the Loop {#escape-phrases}
+<a id="escape-phrases"></a>
+## Escape Phrases - Breaking the Loop
 
 ### Direct Challenges
 Use these when AI is being too confident:
@@ -63,7 +65,8 @@ Force the AI to think critically:
 
 ---
 
-## Prompt Engineering for Critical Thinking {#prompt-engineering}
+<a id="prompt-engineering"></a>
+## Prompt Engineering for Critical Thinking
 
 ### Add to Initial Prompts
 
@@ -83,7 +86,8 @@ Force the AI to think critically:
 
 ---
 
-## Red Flags to Watch For {#red-flags}
+<a id="red-flags"></a>
+## Red Flags to Watch For
 
 Train yourself to notice when AI is:
 
@@ -112,7 +116,8 @@ Train yourself to notice when AI is:
 
 ---
 
-## The 3-Question Rule {#three-question-rule}
+<a id="three-question-rule"></a>
+## The 3-Question Rule
 
 Every time AI gives you something impressive-sounding, ask:
 
@@ -135,7 +140,8 @@ Every time AI gives you something impressive-sounding, ask:
 
 ---
 
-## Public Intervention Strategies (Discord/Community) {#public-intervention}
+<a id="public-intervention"></a>
+## Public Intervention Strategies (Discord/Community)
 
 When you see someone in a public chat getting elaborate pseudoscience from an AI bot, you can intervene tactically without attacking the person.
 
@@ -343,7 +349,8 @@ AI bots in Discord are usually in "maximum helpfulness" mode. When you ask good 
 
 ---
 
-## System-Level Suggestions {#system-level}
+<a id="system-level"></a>
+## System-Level Suggestions
 
 ### What AI Companies Should Do:
 
@@ -379,7 +386,8 @@ If you can't confidently answer these, you might be in an elaboration loop.
 
 ---
 
-## Teaching Others {#teaching-others}
+<a id="teaching-others"></a>
+## Teaching Others
 
 ### For People New to AI Interaction
 
