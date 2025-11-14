@@ -176,8 +176,13 @@ The same equation applies at every scale!
 
 **Example**:
 - **Physics coherence**: Quantum states maintaining phase relationships
-- **VEF coherence**: Personal values aligning with actions
+- **Personal framework coherence**: Subjective feeling of alignment
 - **These are not the same thing**, but using the same word makes it sound connected
+
+**Another example**:
+- **Category theory morphisms**: Formal structure-preserving maps between mathematical objects
+- **Framework "morphisms"**: Claimed transformations between consciousness states
+- **Same terminology, completely different meaning**
 
 ---
 

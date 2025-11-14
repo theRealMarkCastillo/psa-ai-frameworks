@@ -185,14 +185,17 @@ See [AI_Use_Methodological_Distinctions.md](AI_Use_Methodological_Distinctions.m
 
 ### Q: Why single out specific frameworks/people?
 
-**A:** We don't. The documents use one case study (VEF) because:
+**A:** We don't. The documents analyze multiple case studies across different domains because:
 
-1. **Educational value**: Well-documented, transparent methodology, shows full pattern
-2. **Public information**: All information is from public Discord posts and published papers
-3. **Representative**: Demonstrates pattern that can happen to anyone
-4. **Not personal**: The critique is about the methodology, not the individual
+1. **Educational value**: Well-documented cases showing full pattern development
+2. **Public information**: All information is from publicly shared materials
+3. **Representative**: Demonstrates patterns that can happen to anyone, regardless of intelligence or awareness
+4. **Domain diversity**: Shows pattern appears in psychology, physics, mathematics
+5. **Not personal**: The critique is about methodology and validation, not individuals
 
-The creator is intelligent, well-intentioned, and transparent—which makes it an even better educational example. This pattern can happen to anyone.
+The case study subjects are intelligent, well-intentioned individuals—which makes them better educational examples. This pattern can happen to anyone, including those explicitly trying to avoid it.
+
+**See**: [AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md) (psychological framework) and [SUBJECT_A_CASE_STUDY_PUBLICATION.md](SUBJECT_A_CASE_STUDY_PUBLICATION.md) (mathematical/physics framework)
 
 ---
 

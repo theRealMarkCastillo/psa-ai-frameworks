@@ -6,6 +6,8 @@
 
 **Context**: After reading about [red flags](RED_FLAGS_CHECKLIST.md) and [validation issues](WHY_AI_CANNOT_VALIDATE.md), this document shows you what legitimate alternatives look like.
 
+**See also**: [AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md) and [SUBJECT_A_CASE_STUDY_PUBLICATION.md](SUBJECT_A_CASE_STUDY_PUBLICATION.md) for detailed examples of AI-generated frameworks across different domains.
+
 ---
 
 ## Side-by-Side Comparison
@@ -53,13 +55,13 @@
 
 ### Example 1: Decision-Making Under Stress
 
-#### AI-Generated Approach (VEF-style)
+#### AI-Generated Approach (Typical Pattern)
 **Framework**:
 ```
 dC/dt = α(C* - C) + βG - γS_eff + ηA - δ
 Decision allowed when C ≥ 0.87093
-Six-gate Realness protocol required
-Daily MCL logging mandatory
+Multi-gate protocol required
+Daily metric logging mandatory
 ```
 
 **Core advice**: Don't make decisions when stressed; wait until coherent state
@@ -91,9 +93,9 @@ Daily MCL logging mandatory
 
 **Comparison**:
 - ✅ **Core advice is similar** (both recognize stress affects decisions)
-- ❌ **VEF adds mathematical formalism** without adding value
-- ✅ **CBT/DBT has decades of validation** VEF has none
-- ❌ **VEF's thresholds are arbitrary** (0.87093)
+- ❌ **AI framework adds mathematical formalism** without adding value
+- ✅ **CBT/DBT has decades of validation** while AI framework has none
+- ❌ **Arbitrary thresholds** (0.87093 not derived from data)
 - ✅ **CBT/DBT is delivered by trained professionals** with oversight
 
 **Bottom line**: CBT/DBT accomplishes the same goal with evidence backing it.
@@ -139,7 +141,7 @@ Daily MCL logging mandatory
 - ✅ **Core insight is the same** (noticing rumination is key)
 - ❌ **AI framework adds statistical tests** that don't improve outcomes
 - ✅ **MBCT has clear evidence** of effectiveness
-- ❌ **VEF's Mann-Kendall test** is sophisticated but unnecessary
+- ❌ **Sophisticated statistical tests** are unnecessary for the core practice
 - ✅ **MBCT can be learned** from books, apps, or 8-week courses
 
 **Bottom line**: MBCT delivers same benefit without elaborate formalization, with evidence backing it.
@@ -197,12 +199,19 @@ Daily MCL logging mandatory
 ## Common Patterns
 
 ### What AI-Generated Frameworks Often Do:
-1. **Repackage validated concepts** from CBT, DBT, ACT, mindfulness
-2. **Add mathematical formalization** (equations, thresholds, gates)
+1. **Repackage existing concepts** from established fields (psychology, physics, mathematics)
+2. **Add mathematical formalization** (equations, thresholds, category theory)
 3. **Create elaborate measurement systems** (daily tracking, numerical scores)
-4. **Claim universal applicability** (consciousness, physics, economics)
+4. **Claim universal applicability** (consciousness, physics, economics, psychology)
 5. **Provide false precision** (0.87093 instead of "roughly 0.85-0.90")
 6. **Lack independent validation** (only creator + AI)
+7. **Expand scope rapidly** (personal insight → universal theory in weeks)
+
+**Examples across domains**:
+- **Psychology**: Repackaged CBT/DBT with differential equations
+- **Physics**: Claims to unify consciousness and quantum mechanics from single axiom
+- **Mathematics**: Category theory applied to personal experiences
+- **See**: [AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md) and [SUBJECT_A_CASE_STUDY_PUBLICATION.md](SUBJECT_A_CASE_STUDY_PUBLICATION.md) for detailed examples
 
 ### What Evidence-Based Frameworks Do:
 1. **Build on decades of research** with incremental improvements
@@ -215,6 +224,8 @@ Daily MCL logging mandatory
 ---
 
 ## Overview of Evidence-Based Approaches
+
+**Note**: The following examples are from psychology/mental health domains. Evidence-based approaches exist in other fields (physics, mathematics, etc.) through peer-reviewed journals and academic research. For AI-generated frameworks claiming to unify multiple scientific domains, see our case studies for analysis.
 
 ### CBT (Cognitive Behavioral Therapy)
 **What it is**: Therapy focusing on relationship between thoughts, feelings, and behaviors
@@ -495,19 +506,23 @@ Daily MCL logging mandatory
 ### AI-Generated Framework (Typical Pattern)
 **What it offers**:
 - Sophisticated-sounding concepts
-- Mathematical formalization
-- Unified theory feeling
+- Mathematical formalization (equations, category theory, differential equations)
+- Unified theory feeling across multiple domains
 - Novelty and excitement
+- Cross-platform AI "validation"
 
 **What it lacks**:
-- Independent validation
-- Peer review
+- Independent validation by domain experts
+- Peer review in relevant field
 - Evidence of effectiveness
-- Comparison to alternatives
-- Conservative claims
+- Comparison to established approaches in each domain
+- Conservative, testable claims
 - Professional oversight
+- Falsifiable predictions
 
-**Risk level**: Low (personal journaling) to High (replacing therapy, institutional use)
+**Risk level**: Low (personal journaling) to High (replacing professional help, making life decisions based on unvalidated framework, institutional implementation)
+
+**Examples**: See [AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md) (psychological framework) and [SUBJECT_A_CASE_STUDY_PUBLICATION.md](SUBJECT_A_CASE_STUDY_PUBLICATION.md) (mathematical/physics framework)
 
 ---
 
@@ -539,11 +554,12 @@ Daily MCL logging mandatory
 5. **Remember**: Simple often works better than complex
 
 ### If Encountering Novel AI Framework:
-1. **Check for peer-reviewed research**
-2. **Ask about independent validation**
-3. **Compare to established alternatives**
-4. **Evaluate if math adds value or just complexity**
-5. **Consider trying evidence-based approach first**
+1. **Check for peer-reviewed research** in the relevant field (psychology, physics, mathematics, etc.)
+2. **Ask about independent validation** by domain experts
+3. **Compare to established approaches** in each field the framework claims to address
+4. **Evaluate if math adds value** or is just sophisticated-looking formalism
+5. **Consider the domain**: For mental health, try evidence-based approaches first; for scientific theories, check if it makes falsifiable predictions
+6. **Review case studies** to recognize common patterns: [AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md) and [SUBJECT_A_CASE_STUDY_PUBLICATION.md](SUBJECT_A_CASE_STUDY_PUBLICATION.md)
 
 ### If You Want to Experiment:
 1. **Use alongside professional help** (not instead of)

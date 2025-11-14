@@ -392,8 +392,9 @@ Count the red flags (🚩) from the list above:
 
 ## Related Documents
 
-- **[ai-pseudoscience-testing-educational-doc.md](ai-pseudoscience-testing-educational-doc.md)** - Comparative study of how 7 major AI systems respond to pseudoscience formalization requests, with detailed methodology for understanding failure modes
+- **[THE_MATERIALIST_ESCAPE_HATCH.md](THE_MATERIALIST_ESCAPE_HATCH.md)** - How frameworks shift from scientific to philosophical language when challenged; the "you're too materialist" self-sealing pattern
 
+- **[ai-pseudoscience-testing-educational-doc.md](ai-pseudoscience-testing-educational-doc.md)** - Comparative study of how 7 major AI systems respond to pseudoscience formalization requests, with detailed methodology for understanding failure modes
 
 - **[ai-epistemic-hygiene-guide.md](ai-epistemic-hygiene-guide.md)** - Practical techniques and escape phrases for maintaining critical thinking while interacting with AI systems
 

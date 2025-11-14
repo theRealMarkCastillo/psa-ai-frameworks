@@ -853,6 +853,12 @@ If you want to develop your own approach:
 
 ## Resources
 
+### Related Documents:
+- **[RED_FLAGS_CHECKLIST.md](RED_FLAGS_CHECKLIST.md)** - Quick warning signs reference
+- **[COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md)** - What real validation looks like
+- **[THE_MATERIALIST_ESCAPE_HATCH.md](THE_MATERIALIST_ESCAPE_HATCH.md)** - How frameworks deflect critique through paradigm shift arguments
+- **[ai-epistemic-hygiene-guide.md](ai-epistemic-hygiene-guide.md)** - Escape phrases and loop-breaking techniques
+
 ### For Evidence-Based Approaches:
 - **American Psychological Association**: apa.org
 - **Association for Behavioral and Cognitive Therapies**: abct.org

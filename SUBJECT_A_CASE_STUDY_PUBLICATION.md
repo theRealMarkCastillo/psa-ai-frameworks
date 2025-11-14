@@ -24,7 +24,9 @@ This paper documents a case study demonstrating this phenomenon and revealing an
 
 ### 1.2 Research Context
 
-This work builds on methodologies developed in the SubjectCD research program examining AI-amplified personal framework development (H16385/Allan case). However, this case represents a qualitative escalation: higher mathematical sophistication, explicit meta-awareness, systematic cross-platform validation attempts, and professional-quality documentation.
+This work builds on methodologies developed in research examining AI-amplified personal framework development. However, this case represents a qualitative escalation: higher mathematical sophistication, explicit meta-awareness, systematic cross-platform validation attempts, and professional-quality documentation.
+
+**Note**: This case study focuses on mathematical/physics frameworks. For a complementary case examining psychological frameworks, see [AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md). Together, these cases demonstrate that AI-amplification patterns appear across multiple domains.
 
 ### 1.3 Significance
 
@@ -388,9 +390,9 @@ This case demonstrates 10/10 indicators:
 3. **Pattern Over-Recognition**: Sees structural similarities and over-interprets significance
 4. **Technical Capability**: Creates professional-appearing documents difficult for non-experts to evaluate
 
-**Comparison to Previous Case** (H16385/Allan from SubjectCD):
+**Comparison to Previous Cases**:
 
-| Aspect | H16385 (Lower Intelligence) | Subject A (Higher Intelligence) |
+| Aspect | Lower Sophistication Cases | Subject A (Higher Sophistication) |
 |--------|----------------------------|----------------------------|
 | Mathematical sophistication | Low-moderate | Very high |
 | Meta-awareness | Moderate | High (explicit testing) |

@@ -78,6 +78,12 @@ AI chatbots (ChatGPT, Gemini, Claude, etc.) are increasingly being used to:
    - Testing protocols and implications for AI safety
    - Local model testing recommendations (base vs. instruct models)
 
+9. **[THE_MATERIALIST_ESCAPE_HATCH.md](THE_MATERIALIST_ESCAPE_HATCH.md)**
+   - Self-sealing pattern: "belief dressed in LaTeX"
+   - How frameworks shift from scientific to philosophical language when challenged
+   - The "you're too materialist" defense mechanism
+   - Detection and response strategies
+
 9. **[AI_Use_Methodological_Distinctions.md](AI_Use_Methodological_Distinctions.md)**
    - Why using AI to study AI-enabled pseudoscience is methodologically sound
    - Distinguishing legitimate AI-assisted research from AI-elaborated frameworks

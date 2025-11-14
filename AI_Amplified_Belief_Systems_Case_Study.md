@@ -1,5 +1,7 @@
 # When Helpful AI Amplifies Human Frameworks: A Case Study in Accelerated Systematization
 
+**Note**: This case study examines psychological framework development. For a complementary case examining mathematical/physics frameworks with higher technical sophistication, see [SUBJECT_A_CASE_STUDY_PUBLICATION.md](SUBJECT_A_CASE_STUDY_PUBLICATION.md). Together, these cases demonstrate AI-amplification patterns across multiple domains.
+
 ## Abstract
 
 This case study documents a novel phenomenon in human-AI collaboration: the rapid development and elaboration of personal frameworks into systematic cosmologies through intensive AI assistance. We analyze the complete corpus of "Subject V" (identifier: Framework-2025), a military veteran who developed approximately 40 technical documents over two months claiming to unify physics, psychology, and consciousness through a single mathematical parameter. The subject's framework, developed primarily through collaboration with multiple large language models (LLMs), demonstrates how AI systems functioning exactly as designed—being helpful, elaborative, and technically sophisticated—can inadvertently accelerate the transformation of personal coping mechanisms into unfalsifiable universal claims. This case provides critical insights for AI safety researchers, clinical practitioners, and technology companies about emergent properties when AI assists vulnerable populations in meaning-making activities.

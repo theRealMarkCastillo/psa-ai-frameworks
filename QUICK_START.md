@@ -179,16 +179,17 @@ If you see **3+ of these**, be very cautious:
 
 ---
 
-## Real-World Example: VEF Case Study
+## Real-World Examples: Case Studies
 
-The Virtual Ego Framework demonstrates the pattern:
+We document multiple cases demonstrating this pattern across different domains:
 
+### Case Study 1: Psychological Framework (Subject V)
 **Timeline**: September-November 2025 (2-3 months)
 
 **Development**:
 - Personal insight → AI formalization → Mathematical elaboration
-- ChatGPT + Gemini + Copilot collaboration
-- 40+ self-publications (no peer review)
+- Multiple AI collaborations
+- 40+ documents (no peer review)
 
 **Scope expansion**:
 - Week 1: Personal health tracking
@@ -197,10 +198,27 @@ The Virtual Ego Framework demonstrates the pattern:
 - Month 3: Global governance proposal
 
 **Red flags**: 10/10 present
-
 **Evidence**: Zero independent validation
 
-**Read full case study in this folder for detailed analysis**
+### Case Study 2: Mathematical/Physics Framework (Subject A)
+**Timeline**: August-November 2025 (2-3 months)
+
+**Development**:
+- Mathematical axiom → Category theory formalization → Universal claims
+- Cross-platform AI testing (Claude, ChatGPT, DeepSeek, Gemini)
+- 15-20 documents with advanced mathematics
+
+**Scope expansion**:
+- Claims to unify physics, consciousness, and mathematics from single axiom
+- Professional LaTeX formatting
+- Meta-awareness of AI risks, yet pattern persists
+
+**Red flags**: 10/10 present
+**Evidence**: Zero independent validation
+
+**Key insight**: Pattern appears across domains (psychology, physics, mathematics) and intelligence levels. Meta-awareness provides no protection.
+
+**Read full case studies**: [AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md) and [SUBJECT_A_CASE_STUDY_PUBLICATION.md](SUBJECT_A_CASE_STUDY_PUBLICATION.md)
 
 ---
 
@@ -263,19 +281,26 @@ The Virtual Ego Framework demonstrates the pattern:
    - Distinguishing legitimate research from pseudoscience
    - Responding to "pot calling kettle black" objections
 
+### For Advanced Pattern Recognition:
+
+10. **[THE_MATERIALIST_ESCAPE_HATCH.md](THE_MATERIALIST_ESCAPE_HATCH.md)** (25 min)
+   - Self-sealing through paradigm critique
+   - "Belief dressed in LaTeX" pattern
+   - How to detect and respond to philosophical deflection
+
 ### For Quick Reference:
 
-10. **[FAQ.md](FAQ.md)** (variable)
+11. **[FAQ.md](FAQ.md)** (variable)
    - Comprehensive answers to common questions
    - Questions for creators and users
    - Finding evidence-based help
 
-11. **[COMMON_REBUTTALS.md](COMMON_REBUTTALS.md)** (variable)
+12. **[COMMON_REBUTTALS.md](COMMON_REBUTTALS.md)** (variable)
    - Responses to common objections
    - How to maintain productive conversations
    - Handling defensive reactions
 
-**Total reading time: 2.5-3 hours (including advanced resources)**
+**Total reading time: 3-3.5 hours (including advanced resources)**
 
 ---
 
