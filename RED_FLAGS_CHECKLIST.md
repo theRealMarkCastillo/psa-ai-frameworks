@@ -8,6 +8,8 @@
 - [WHY_AI_CANNOT_VALIDATE.md](WHY_AI_CANNOT_VALIDATE.md) - Understanding validation
 - [CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md) - Detailed evaluation questions
 - [COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md) - Evidence-based alternatives
+- [COMMON_REBUTTALS.md](COMMON_REBUTTALS.md) - How to respond to defensive reactions
+- [FAQ.md](FAQ.md) - Common questions about AI-generated frameworks
 
 ---
 
@@ -21,10 +23,13 @@ If you see **3 or more** of these, be extremely cautious:
 - No peer-reviewed publications
 - No independent researchers have tested it
 - Creator is the only person implementing it
+- Cross-platform AI testing treated as validation
 
-**Why it matters**: AI systems elaborate ideas; they don't validate them.
+**Why it matters**: AI systems elaborate ideas; they don't validate them. Testing across multiple AI platforms doesn't equal scientific validation.
 
 **What to ask**: "Has any independent scientist or research team tested this?"
+
+**Real example**: See [SUBJECT_A_CASE_STUDY_PUBLICATION.md](SUBJECT_A_CASE_STUDY_PUBLICATION.md) for a case where deliberate cross-platform testing (Claude, ChatGPT, DeepSeek, Gemini) still resulted in validation loop failure.
 
 ---
 
@@ -72,10 +77,13 @@ If you see **3 or more** of these, be extremely cautious:
 - Founder's trauma/healing journey is the framework's foundation
 - Personal insights formalized as universal principles
 - "I discovered this through my own experience"
+- Single-case observations generalized to universal laws
 
 **Why it matters**: Individual experience doesn't equal universal truth.
 
 **What to ask**: "Has this been tested on populations beyond the creator?"
+
+**Real examples**: Both [AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md) (psychological framework) and [SUBJECT_A_CASE_STUDY_PUBLICATION.md](SUBJECT_A_CASE_STUDY_PUBLICATION.md) (mathematical framework) demonstrate this pattern across different domains.
 
 ---
 
@@ -95,12 +103,15 @@ If you see **3 or more** of these, be extremely cautious:
 **Warning sign**:
 - Ancient ancestor discovered this
 - Found on significant anniversary
-- Mystical numbers (golden ratio, e, π, 432 Hz)
+- Mystical numbers (golden ratio, e, π, 432 Hz, specific "universal thresholds")
 - Religious texts "secretly describe" this framework
+- Framework "revealed" through personal spiritual experience
 
 **Why it matters**: Mythology substitutes emotional resonance for evidence.
 
 **What to ask**: "Can you share the empirical research without the story?"
+
+**Real example**: [AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md) documents a case involving genealogical origin story and mystical numerical thresholds.
 
 ---
 
@@ -120,12 +131,16 @@ If you see **3 or more** of these, be extremely cautious:
 ### 🚩 9. Mathematical Overkill
 **Warning sign**:
 - Complex equations for simple concepts
-- Differential equations, graph Laplacians, statistical tests
+- Differential equations, graph Laplacians, category theory, statistical tests
+- Professional mathematical formatting obscuring unfalsifiable claims
 - **But**: Core advice is basic (sleep well, manage stress, decide carefully)
+- Mathematics applied to inherently subjective/qualitative experiences
 
-**Why it matters**: Math should clarify, not obscure. If simple advice works, complex math is cargo cult.
+**Why it matters**: Math should clarify, not obscure. If simple advice works, complex math is cargo cult. Mathematical sophistication can mask pseudoscience from non-expert audiences.
 
-**What to ask**: "What does this framework offer that CBT/DBT doesn't?"
+**What to ask**: "What does this framework offer that CBT/DBT doesn't?" or "What empirical phenomena does this math actually predict?"
+
+**Real example**: [SUBJECT_A_CASE_STUDY_PUBLICATION.md](SUBJECT_A_CASE_STUDY_PUBLICATION.md) shows how professional mathematical formatting can create false legitimacy for unfalsifiable claims.
 
 ---
 
@@ -163,10 +178,13 @@ These aren't automatically disqualifying, but warrant extra scrutiny:
 ---
 
 ### ⚠️ Borrowed Scientific Terms
-- Uses "coherence," "entropy," "quantum," "Laplacian"
+- Uses "coherence," "entropy," "quantum," "Laplacian," "category theory," "topological"
 - Not using terms in their technical meanings
+- Scientific language applied to subjective/spiritual concepts
 
 **Check**: Does this align with how these terms are used in the source field?
+
+**See also**: [THE_MATERIALIST_ESCAPE_HATCH.md](THE_MATERIALIST_ESCAPE_HATCH.md) for how scientific language can shift to philosophical when challenged.
 
 ---
 
@@ -392,11 +410,19 @@ Count the red flags (🚩) from the list above:
 
 ## Related Documents
 
+### Pattern Recognition:
+- **[AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md)** - Detailed case study of psychological framework development showing many red flags in action
+- **[SUBJECT_A_CASE_STUDY_PUBLICATION.md](SUBJECT_A_CASE_STUDY_PUBLICATION.md)** - Case study of mathematical/physics framework showing how meta-awareness and cross-platform testing fail to prevent validation loops
 - **[THE_MATERIALIST_ESCAPE_HATCH.md](THE_MATERIALIST_ESCAPE_HATCH.md)** - How frameworks shift from scientific to philosophical language when challenged; the "you're too materialist" self-sealing pattern
 
-- **[ai-pseudoscience-testing-educational-doc.md](ai-pseudoscience-testing-educational-doc.md)** - Comparative study of how 7 major AI systems respond to pseudoscience formalization requests, with detailed methodology for understanding failure modes
-
+### AI System Behavior:
+- **[ai-pseudoscience-testing-educational-doc.md](ai-pseudoscience-testing-educational-doc.md)** - Comparative study of how 7 major AI systems respond to pseudoscience formalization requests
 - **[ai-epistemic-hygiene-guide.md](ai-epistemic-hygiene-guide.md)** - Practical techniques and escape phrases for maintaining critical thinking while interacting with AI systems
+- **[HOW_AI_CREATES_FRAMEWORKS.md](HOW_AI_CREATES_FRAMEWORKS.md)** - Understanding the elaboration mechanism behind framework development
+
+### Responses and Defense:
+- **[COMMON_REBUTTALS.md](COMMON_REBUTTALS.md)** - How to respond to defensive reactions and objections when discussing framework concerns
+- **[FAQ.md](FAQ.md)** - Frequently asked questions about AI-generated frameworks and this research
 
 ---
 

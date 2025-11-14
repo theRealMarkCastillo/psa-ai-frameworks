@@ -590,6 +590,10 @@ Daily metric logging mandatory
 ## Next Steps
 
 - **[ai-pseudoscience-testing-educational-doc.md](ai-pseudoscience-testing-educational-doc.md)** - Research demonstrating how major AI systems enable pseudoscience formalization
+- **[AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md)** - Detailed psychological framework case study
+- **[SUBJECT_A_CASE_STUDY_PUBLICATION.md](SUBJECT_A_CASE_STUDY_PUBLICATION.md)** - Mathematical/physics framework case with meta-awareness analysis
+- **[THE_MATERIALIST_ESCAPE_HATCH.md](THE_MATERIALIST_ESCAPE_HATCH.md)** - Self-sealing patterns when frameworks are challenged
+- **[COMMON_REBUTTALS.md](COMMON_REBUTTALS.md)** - How to respond to objections about this research
 - **[ai-epistemic-hygiene-guide.md](ai-epistemic-hygiene-guide.md)** - Practical strategies for maintaining critical thinking when interacting with AI
 
 ---

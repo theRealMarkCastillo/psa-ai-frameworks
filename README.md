@@ -57,14 +57,14 @@ AI chatbots (ChatGPT, Gemini, Claude, etc.) are increasingly being used to:
    - What actual validated science looks like (with examples from psychology)
    - How to find validated alternatives
 
-6. **[CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md)**
+7. **[CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md)**
    - Practical tools for evaluating any framework
    - Questions to ask AI systems
    - How to seek external validation
 
 ### 🔬 Advanced Educational Resources
 
-7. **[ai-epistemic-hygiene-guide.md](ai-epistemic-hygiene-guide.md)**
+8. **[ai-epistemic-hygiene-guide.md](ai-epistemic-hygiene-guide.md)**
    - How to avoid elaboration loops when interacting with AI
    - Escape phrases for breaking out of pseudoscientific reasoning
    - Prompt engineering for critical thinking
@@ -84,7 +84,7 @@ AI chatbots (ChatGPT, Gemini, Claude, etc.) are increasingly being used to:
    - The "you're too materialist" defense mechanism
    - Detection and response strategies
 
-9. **[AI_Use_Methodological_Distinctions.md](AI_Use_Methodological_Distinctions.md)**
+10. **[AI_Use_Methodological_Distinctions.md](AI_Use_Methodological_Distinctions.md)**
    - Why using AI to study AI-enabled pseudoscience is methodologically sound
    - Distinguishing legitimate AI-assisted research from AI-elaborated frameworks
    - Responding to "pot calling kettle black" objections
@@ -93,14 +93,14 @@ AI chatbots (ChatGPT, Gemini, Claude, etc.) are increasingly being used to:
 
 ### 📖 Reference Materials
 
-10. **[FAQ.md](FAQ.md)**
+11. **[FAQ.md](FAQ.md)**
    - Frequently asked questions about AI-generated frameworks
    - Questions for framework creators and users
    - About this research and its methodology
    - Finding evidence-based alternatives
    - Comprehensive answers to common concerns
 
-11. **[COMMON_REBUTTALS.md](COMMON_REBUTTALS.md)**
+12. **[COMMON_REBUTTALS.md](COMMON_REBUTTALS.md)**
    - Responses to common objections and defensive reactions
    - How to handle "you're using AI too" arguments
    - Addressing authority and expertise challenges

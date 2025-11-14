@@ -195,7 +195,9 @@ See [AI_Use_Methodological_Distinctions.md](AI_Use_Methodological_Distinctions.m
 
 The case study subjects are intelligent, well-intentioned individuals—which makes them better educational examples. This pattern can happen to anyone, including those explicitly trying to avoid it.
 
-**See**: [AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md) (psychological framework) and [SUBJECT_A_CASE_STUDY_PUBLICATION.md](SUBJECT_A_CASE_STUDY_PUBLICATION.md) (mathematical/physics framework)
+**See**: 
+- [AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md) - Psychological framework (Subject V)
+- [SUBJECT_A_CASE_STUDY_PUBLICATION.md](SUBJECT_A_CASE_STUDY_PUBLICATION.md) - Mathematical/physics framework (Subject A) demonstrating meta-awareness failure
 
 ---
 

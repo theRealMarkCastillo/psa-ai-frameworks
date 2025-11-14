@@ -194,7 +194,7 @@ The AI will analyze:
 4. **Spreading Misinformation**: Share "AI-validated" frameworks that mislead others
 5. **Resistance to Real Help**: Reject evidence-based approaches because "my AI-validated framework is better"
 
-### Real Example Pattern
+**Real Example Pattern**
 
 ```
 Week 1: "I have an interesting idea about decision-making"
@@ -206,7 +206,9 @@ Week 16: "This is revolutionary—AI systems all agree!"
 Missing: Any actual testing with real people, peer review, or scientific validation
 ```
 
-**See Also**: [AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md) for a detailed real-world example of exactly this pattern
+**See Also**: 
+- [AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md) for a detailed psychological framework example
+- [SUBJECT_A_CASE_STUDY_PUBLICATION.md](SUBJECT_A_CASE_STUDY_PUBLICATION.md) for a mathematical framework where cross-platform testing failed to prevent validation loops
 
 ---
 
@@ -325,8 +327,13 @@ AI can help you create something that LOOKS like science. Only actual scientific
 
 - **Read**: [HOW_AI_CREATES_FRAMEWORKS.md](HOW_AI_CREATES_FRAMEWORKS.md) for the mechanism behind this
 - **Check**: [RED_FLAGS_CHECKLIST.md](RED_FLAGS_CHECKLIST.md) for warning signs in frameworks
+- **Study case examples**: 
+  - [AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md) - Psychological framework
+  - [SUBJECT_A_CASE_STUDY_PUBLICATION.md](SUBJECT_A_CASE_STUDY_PUBLICATION.md) - Mathematical framework with meta-awareness failure
 - **Learn**: [CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md) for evaluation methods
 - **Compare**: [COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md) to see what real validation looks like
+- **Understand self-sealing patterns**: [THE_MATERIALIST_ESCAPE_HATCH.md](THE_MATERIALIST_ESCAPE_HATCH.md)
+- **Handle objections**: [COMMON_REBUTTALS.md](COMMON_REBUTTALS.md) for responding to defensive reactions
 
 ---
 
