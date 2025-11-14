@@ -5,7 +5,7 @@
 
 **Target Audience**: Anyone using AI tools for decision-making, personal development, or research
 
-**Created**: November 6, 2025
+**Last Updated**: November 13, 2025
 
 ---
 
@@ -18,6 +18,8 @@ AI chatbots (ChatGPT, Gemini, Claude, etc.) are increasingly being used to:
 - Generate "research" that looks academically rigorous
 
 **The Problem**: These AI systems are excellent at creating *appearance* of rigor without *substance* of validation.
+
+**Note**: This research uses AI as an articulation tool. For an explanation of why studying AI-enabled pseudoscience with AI assistance is methodologically sound, see [AI_Use_Methodological_Distinctions.md](AI_Use_Methodological_Distinctions.md).
 
 ---
 
@@ -40,10 +42,15 @@ AI chatbots (ChatGPT, Gemini, Claude, etc.) are increasingly being used to:
    - Understanding AI as elaborator vs. validator
    - What real validation actually requires
 
-4. **[CASE_STUDY_VEF.md](CASE_STUDY_VEF.md)**
+4. **[AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md)**
    - Real-world example of AI framework creation
    - Detailed analysis of how it happened
    - What went right and what went wrong
+
+5. **[SUBJECT_A_CASE_STUDY_PUBLICATION.md](SUBJECT_A_CASE_STUDY_PUBLICATION.md)**
+   - In-depth research case study: AI-Amplified Pseudomathematics
+   - Meta-awareness paradox: why explicit testing across AI platforms failed
+   - Intelligence as risk factor in AI collaboration
 
 5. **[COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md)**
    - Side-by-side: AI-generated vs. evidence-based approaches
@@ -57,19 +64,42 @@ AI chatbots (ChatGPT, Gemini, Claude, etc.) are increasingly being used to:
 
 ### 🔬 Advanced Educational Resources
 
-7. **[AI_EPISTEMIC_HYGIENE_GUIDE.md](ai-epistemic-hygiene-guide.md)**
+7. **[ai-epistemic-hygiene-guide.md](ai-epistemic-hygiene-guide.md)**
    - How to avoid elaboration loops when interacting with AI
    - Escape phrases for breaking out of pseudoscientific reasoning
    - Prompt engineering for critical thinking
    - Public intervention strategies for Discord/communities
    - Self-check techniques and teaching others
 
-8. **[AI_PSEUDOSCIENCE_TESTING_EDUCATIONAL_DOC.md](ai-pseudoscience-testing-educational-doc.md)**
+8. **[ai-pseudoscience-testing-educational-doc.md](ai-pseudoscience-testing-educational-doc.md)**
    - Comparative study: how 7 major AI systems respond to pseudoscience formalization
    - Detailed analysis of failure modes (ChatGPT, Gemini, Claude, Deepseek, etc.)
    - Why more capable models can be MORE dangerous
    - Testing protocols and implications for AI safety
    - Local model testing recommendations (base vs. instruct models)
+
+9. **[AI_Use_Methodological_Distinctions.md](AI_Use_Methodological_Distinctions.md)**
+   - Why using AI to study AI-enabled pseudoscience is methodologically sound
+   - Distinguishing legitimate AI-assisted research from AI-elaborated frameworks
+   - Responding to "pot calling kettle black" objections
+   - Diagnostic questions for evaluating AI use in research
+   - Practical guidance for researchers, users, and evaluators
+
+### 📖 Reference Materials
+
+10. **[FAQ.md](FAQ.md)**
+   - Frequently asked questions about AI-generated frameworks
+   - Questions for framework creators and users
+   - About this research and its methodology
+   - Finding evidence-based alternatives
+   - Comprehensive answers to common concerns
+
+11. **[COMMON_REBUTTALS.md](COMMON_REBUTTALS.md)**
+   - Responses to common objections and defensive reactions
+   - How to handle "you're using AI too" arguments
+   - Addressing authority and expertise challenges
+   - Responding to innovation and progress objections
+   - Maintaining productive conversations about validation
 
 ---
 
@@ -129,13 +159,18 @@ They cannot:
 2. **Read [HOW_AI_CREATES_FRAMEWORKS.md](HOW_AI_CREATES_FRAMEWORKS.md)** to understand the mechanism
 3. **Understand [WHY_AI_CANNOT_VALIDATE.md](WHY_AI_CANNOT_VALIDATE.md)** - why "try it in AI" isn't proof
 4. **Use [RED_FLAGS_CHECKLIST.md](RED_FLAGS_CHECKLIST.md)** for practical warning signs
-5. **Review [CASE_STUDY_VEF.md](CASE_STUDY_VEF.md)** to see a real example
-6. **Reference [CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md)** for evaluation tools
+5. **Review [AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md)** to see a real example
+6. **Read [SUBJECT_A_CASE_STUDY_PUBLICATION.md](SUBJECT_A_CASE_STUDY_PUBLICATION.md)** for academic analysis of meta-awareness failure
+7. **Reference [CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md)** for evaluation tools
 7. **Explore [COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md)** for evidence-based alternatives
 
 ### For Deeper Dive:
-8. **Study [AI_EPISTEMIC_HYGIENE_GUIDE.md](ai-epistemic-hygiene-guide.md)** for practical tactics to stay skeptical
-9. **Review [AI_PSEUDOSCIENCE_TESTING_EDUCATIONAL_DOC.md](ai-pseudoscience-testing-educational-doc.md)** for detailed comparative research on how AI systems fail
+8. **Study [ai-epistemic-hygiene-guide.md](ai-epistemic-hygiene-guide.md)** for practical tactics to stay skeptical
+9. **Review [ai-pseudoscience-testing-educational-doc.md](ai-pseudoscience-testing-educational-doc.md)** for detailed comparative research on how AI systems fail
+
+### For Reference:
+10. **Check [FAQ.md](FAQ.md)** for answers to common questions
+11. **Read [COMMON_REBUTTALS.md](COMMON_REBUTTALS.md)** for handling objections and defensive reactions
 
 ---
 

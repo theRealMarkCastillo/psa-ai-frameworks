@@ -1,7 +1,10 @@
 # Comparison: AI-Generated vs. Evidence-Based Frameworks
 ## Understanding the Difference
 
+**Reading Time**: 20 minutes  
 **Purpose**: Help you distinguish between unvalidated AI-generated frameworks and evidence-based psychological approaches
+
+**Context**: After reading about [red flags](RED_FLAGS_CHECKLIST.md) and [validation issues](WHY_AI_CANNOT_VALIDATE.md), this document shows you what legitimate alternatives look like.
 
 ---
 
@@ -568,8 +571,10 @@ Daily MCL logging mandatory
 - **Crisis Text Line**: Text HOME to 741741
 
 ### For Understanding AI Framework Dangers:
-- **[AI_PSEUDOSCIENCE_TESTING_EDUCATIONAL_DOC.md](ai-pseudoscience-testing-educational-doc.md)** - Research demonstrating how major AI systems enable pseudoscience formalization
-- **[AI_EPISTEMIC_HYGIENE_GUIDE.md](ai-epistemic-hygiene-guide.md)** - Practical strategies for maintaining critical thinking when interacting with AI
+## Next Steps
+
+- **[ai-pseudoscience-testing-educational-doc.md](ai-pseudoscience-testing-educational-doc.md)** - Research demonstrating how major AI systems enable pseudoscience formalization
+- **[ai-epistemic-hygiene-guide.md](ai-epistemic-hygiene-guide.md)** - Practical strategies for maintaining critical thinking when interacting with AI
 
 ---
 

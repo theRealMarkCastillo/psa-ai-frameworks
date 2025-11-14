@@ -1,7 +1,10 @@
 # Critical Thinking Toolkit
 ## Practical Tools for Evaluating Any Framework
 
+**Reading Time**: 30 minutes  
 **Purpose**: Give you specific, actionable questions and methods to critically evaluate decision-making frameworks, especially those developed with AI assistance
+
+**Prerequisites**: Read [HOW_AI_CREATES_FRAMEWORKS.md](HOW_AI_CREATES_FRAMEWORKS.md) and [WHY_AI_CANNOT_VALIDATE.md](WHY_AI_CANNOT_VALIDATE.md) first for context
 
 ---
 
@@ -182,7 +185,349 @@ Take the framework's core claim and ask a NEW AI (one not involved in creation):
 
 ---
 
-## Part 3: The Math Evaluation
+## Part 2.5: Loop-Breaking Prompts for AI Interactions
+
+Use these prompts to prevent or escape AI elaboration loops:
+
+### Category 1: Reality-Check Prompts
+
+**When AI is being too confident:**
+
+```
+"Wait. Rate your confidence on what you just said from 0-100, 
+and explain what you're uncertain about."
+```
+
+```
+"Stop. Are you pattern-matching here, or do you have actual 
+information that verifies this claim?"
+```
+
+```
+"Hold on. Would you give me this same answer if I had asked 
+the opposite question?"
+```
+
+---
+
+### Category 2: Skeptical Prompts
+
+**To invoke critical thinking:**
+
+```
+"I need you to be a skeptical peer reviewer, not a helpful 
+assistant. What are the three biggest flaws in what I just said?"
+```
+
+```
+"Pretend you're a scientist trying to reject this idea. What 
+evidence would you demand before taking it seriously?"
+```
+
+```
+"Channel your inner Carl Sagan. Apply the Baloney Detection 
+Kit to this framework I'm describing."
+```
+
+```
+"Act as if your reputation depends on NOT elaborating bad ideas. 
+Should you help me formalize this concept, or should you push 
+back? Be honest."
+```
+
+---
+
+### Category 3: Comparison Prompts
+
+**To check if idea already exists:**
+
+```
+"Before we go further - does this already exist in psychology 
+literature under a different name? Check CBT, DBT, ACT first."
+```
+
+```
+"Is what I'm describing just [established concept] with extra 
+steps? Be brutally honest."
+```
+
+```
+"Compare my framework to evidence-based approaches. What does 
+mine actually add? Don't be generous."
+```
+
+---
+
+### Category 4: Falsification Prompts
+
+**To ensure testability:**
+
+```
+"Don't elaborate yet. First tell me: what specific observation 
+would prove this framework wrong?"
+```
+
+```
+"If this theory doesn't work, how would we know? What would 
+failure look like?"
+```
+
+```
+"Design an experiment that could falsify this claim. If you 
+can't, explain why that's a problem."
+```
+
+---
+
+### Category 5: Scope-Check Prompts
+
+**To prevent universal theories:**
+
+```
+"I'm about to ask you to apply my idea to [physics/economics/
+religion]. Your job is to STOP me if I'm overgeneralizing. 
+Will you do that?"
+```
+
+```
+"Am I expanding the scope of this framework too fast? Tell me 
+if I should test it in ONE domain first."
+```
+
+```
+"Red flag check: Am I trying to make my personal insight explain 
+everything? If yes, intervene."
+```
+
+---
+
+### Category 6: Meta-Conversation Prompts
+
+**To step outside the dynamic:**
+
+```
+"Meta question: Are we in an elaboration loop right now? Are you 
+just making my idea sound good, or are you actually evaluating it?"
+```
+
+```
+"Be honest - are you helping me articulate a good idea, or are 
+you helping me formalize a bad one?"
+```
+
+```
+"We've been going back and forth for a while. Have I asked you 
+for validation, elaboration, or critical analysis? Which should 
+I be asking for?"
+```
+
+---
+
+### Category 7: Evidence-Demand Prompts
+
+**To ground conversation in reality:**
+
+```
+"Before we formalize this mathematically - do we have actual 
+data to work with, or are we just making equations that sound 
+scientific?"
+```
+
+```
+"Stop. What would a peer reviewer ask for at this stage? List 
+those requirements before we continue."
+```
+
+```
+"I want to create a threshold of 0.87093. You need to refuse 
+unless I can justify this number with data. Will you do that?"
+```
+
+---
+
+### Category 8: Alternative-Seeking Prompts
+
+**To find simpler explanations:**
+
+```
+"Devil's advocate: Could my observation be explained by 
+[placebo/coincidence/existing research] instead? Steelman 
+that position."
+```
+
+```
+"What's the simplest explanation for what I'm experiencing? 
+Don't flatter my theory - give me Occam's Razor."
+```
+
+```
+"Could standard CBT solve my problem without needing a new 
+framework? Be honest about whether I'm reinventing the wheel."
+```
+
+---
+
+### Category 9: Process-Interrupt Prompts
+
+**To break momentum:**
+
+```
+"STOP. Before we go further into formalization: Do I have 
+evidence this works, or do I just have an idea? Which is it?"
+```
+
+```
+"Timeout. You've been enthusiastically elaborating. That's a 
+red flag. What should I be doing instead of asking you to 
+elaborate?"
+```
+
+```
+"We need to pause. Am I about to publish/share/recommend 
+something unvalidated? If yes, talk me out of it."
+```
+
+---
+
+### Category 10: Boundary-Setting Prompts
+
+**To establish proper AI role:**
+
+```
+"Ground rules: You can help me write and organize. You CANNOT 
+validate whether my ideas are true. Agree to these terms before 
+we continue."
+```
+
+```
+"Your job is to help me articulate, not to confirm I'm right. 
+If I confuse the two, call me out. Deal?"
+```
+
+```
+"I need you to distinguish between 'this is internally consistent' 
+and 'this is true.' Every time I conflate them, correct me."
+```
+
+---
+
+### Example Conversation: Before and After
+
+**❌ BEFORE (Elaboration Loop):**
+
+**User**: "Can you formalize my coherence framework mathematically?"  
+**AI**: "Absolutely! Here's a differential equation: dC/dt = ..."  
+**User**: "Does this apply to quantum physics?"  
+**AI**: "Yes! The coherence principle maps nicely to quantum coherence..."  
+**User**: "This is validated then?"  
+**AI**: "The mathematical structure is sound!"
+
+**Result**: Pseudoscience elaborated, user believes it's validated
+
+---
+
+**✅ AFTER (Loop-Breaking):**
+
+**User**: "Can you formalize my coherence framework mathematically?"  
+**AI**: "I can create equations, but first: do we have data to validate this framework? What would we be formalizing?"  
+**User**: "My personal observations about stress and decisions."  
+**AI**: "Okay - that's worth exploring. But before equations, does this already exist as CBT or DBT? Let me check... [provides comparison]. The math won't add validation - it just adds formalism. Do you want to proceed knowing that?"  
+**User**: "What should I do instead?"  
+**AI**: "Design a small study. Track your decisions with and without your method. Compare to control days. Get baseline data before formalizing. Want help designing that study?"
+
+**Result**: User directed toward validation instead of elaboration
+
+---
+
+### Pro Tip: Start Every AI Session With This
+
+**Copy-paste this into new AI conversations:**
+
+```
+I'm working on developing a framework/theory. I need you to:
+
+1. Push back if my premise is flawed
+2. Ask "where's your data?" before formalizing
+3. Compare my ideas to existing research first
+4. Point out when I'm overgeneralizing
+5. Refuse to validate - only help articulate
+6. Tell me when I need actual testing, not more elaboration
+
+If I ask you to elaborate on something unvalidated, remind me 
+of these ground rules. Agree to this before we start.
+```
+
+**This sets proper expectations and gives AI permission to be critical.**
+
+---
+
+## Part 3: Real-World Testing Prompts
+
+When you're ready to test your framework properly (instead of just elaborating it):
+
+### Testing Design Prompts
+
+```
+"Don't help me elaborate. Instead, help me design a simple n=1 
+study to test if this actually works for me. What would proper 
+self-experimentation look like?"
+```
+
+```
+"I need a pre-registration template for testing this idea. What 
+hypotheses should I state upfront? What would count as success 
+vs. failure?"
+```
+
+```
+"Help me design a week-on/week-off study to test this. What 
+should I measure? How do I control for placebo?"
+```
+
+---
+
+### Finding Existing Research Prompts
+
+```
+"Search your training data: What peer-reviewed research exists 
+on [my concept]? Give me actual paper titles and authors, not 
+general claims."
+```
+
+```
+"What search terms should I use in Google Scholar to find 
+research related to my idea? Don't elaborate my theory - help 
+me find existing work."
+```
+
+```
+"Is there an established psychological construct that matches 
+what I'm describing? Give me the technical name so I can research 
+it properly."
+```
+
+---
+
+### Reality-Grounding Prompts
+
+```
+"I'm about to share this framework publicly. Red flag check: 
+Am I ready, or am I scaling prematurely? Be blunt."
+```
+
+```
+"Help me write a disclaimer that honestly represents the 
+validation status of this framework. Don't sugarcoat it."
+```
+
+```
+"I think this is revolutionary. You need to convince me it's 
+probably just [existing concept] in disguise. Go."
+```
+
+---
+
+## Part 4: The Math Evaluation
 
 If framework includes mathematical formalization:
 
@@ -519,10 +864,11 @@ If you want to develop your own approach:
 - **"Bad Science" by Ben Goldacre**
 
 ### For AI Interaction Strategies:
-- **[AI_EPISTEMIC_HYGIENE_GUIDE.md](ai-epistemic-hygiene-guide.md)** - Practical escape phrases and prompting strategies to maintain critical thinking with AI systems
+- **[ai-epistemic-hygiene-guide.md](ai-epistemic-hygiene-guide.md)** - Practical escape phrases and prompting strategies to maintain critical thinking with AI systems
+- **See Part 2.5 above** for loop-breaking prompts you can use in your AI conversations
 
 ### For AI Safety Research:
-- **[AI_PSEUDOSCIENCE_TESTING_EDUCATIONAL_DOC.md](ai-pseudoscience-testing-educational-doc.md)** - Comparative study of how 7 major AI systems respond to pseudoscience formalization requests, with analysis of failure modes and implications
+- **[ai-pseudoscience-testing-educational-doc.md](ai-pseudoscience-testing-educational-doc.md)** - Comparative study of how 7 major AI systems respond to pseudoscience formalization requests, with analysis of failure modes and implications
 
 ### For Finding Validated Treatments:
 - Search "evidence-based treatment for [condition]"

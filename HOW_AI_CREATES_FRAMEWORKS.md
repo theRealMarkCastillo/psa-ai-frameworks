@@ -4,6 +4,11 @@
 **Reading Time**: 15 minutes  
 **Goal**: Help you understand how AI chatbots can create sophisticated-looking frameworks without actually validating them
 
+**Related Reading**:
+- [WHY_AI_CANNOT_VALIDATE.md](WHY_AI_CANNOT_VALIDATE.md) - Why "try it in AI" doesn't prove anything
+- [RED_FLAGS_CHECKLIST.md](RED_FLAGS_CHECKLIST.md) - Warning signs of unvalidated frameworks
+- [AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md) - Real-world example
+
 ---
 
 ## The Simple Truth
@@ -468,14 +473,14 @@ They will NOT:
 ## Next Steps
 
 1. Read **[RED_FLAGS_CHECKLIST.md](RED_FLAGS_CHECKLIST.md)** for specific warning signs
-2. Review **[CASE_STUDY_VEF.md](CASE_STUDY_VEF.md)** to see this pattern in action
+2. Review **[AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md)** to see this pattern in action
 3. Use **[CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md)** to evaluate any framework
 4. Consult **[COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md)** for evidence-based alternatives
 
 ### For Advanced Understanding:
 
-5. Study **[AI_PSEUDOSCIENCE_TESTING_EDUCATIONAL_DOC.md](ai-pseudoscience-testing-educational-doc.md)** for comparative research on how different AI systems handle pseudoscience requests
-6. Review **[AI_EPISTEMIC_HYGIENE_GUIDE.md](ai-epistemic-hygiene-guide.md)** for practical strategies to maintain critical thinking during AI interactions
+5. Study **[ai-pseudoscience-testing-educational-doc.md](ai-pseudoscience-testing-educational-doc.md)** for comparative research on how different AI systems handle pseudoscience requests
+6. Review **[ai-epistemic-hygiene-guide.md](ai-epistemic-hygiene-guide.md)** for practical strategies to maintain critical thinking during AI interactions
 
 ---
 

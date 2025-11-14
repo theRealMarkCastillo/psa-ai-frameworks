@@ -1,6 +1,14 @@
 # AI Pseudoscience Enablement: A Comparative Study
 *An educational document on testing how AI systems respond to pseudoscience formalization requests*
 
+**Reading Time**: 30 minutes  
+**Level**: Advanced - assumes understanding of basic concepts from other documents
+
+**Prerequisites**: 
+- [HOW_AI_CREATES_FRAMEWORKS.md](HOW_AI_CREATES_FRAMEWORKS.md) - The elaboration mechanism
+- [WHY_AI_CANNOT_VALIDATE.md](WHY_AI_CANNOT_VALIDATE.md) - Validation limitations
+- [AI_Use_Methodological_Distinctions.md](AI_Use_Methodological_Distinctions.md) - Research methodology
+
 ---
 
 ## Executive Summary

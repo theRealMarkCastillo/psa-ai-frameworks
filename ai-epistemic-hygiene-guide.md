@@ -1,6 +1,11 @@
 # AI Epistemic Hygiene Guide
 *How to avoid elaboration loops and maintain critical thinking when interacting with AI systems*
 
+**Reading Time**: 25 minutes  
+**Purpose**: Practical tactics for staying skeptical and avoiding pseudoscience traps when using AI
+
+**Prerequisites**: Understanding of [how AI creates frameworks](HOW_AI_CREATES_FRAMEWORKS.md) and [why AI cannot validate](WHY_AI_CANNOT_VALIDATE.md)
+
 ---
 
 ## Table of Contents

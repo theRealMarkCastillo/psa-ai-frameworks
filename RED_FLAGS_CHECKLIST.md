@@ -4,6 +4,11 @@
 **Purpose**: Help you quickly identify warning signs of unvalidated frameworks  
 **Use this when**: Someone presents you with a new decision-making or psychological framework
 
+**Companion Resources**:
+- [WHY_AI_CANNOT_VALIDATE.md](WHY_AI_CANNOT_VALIDATE.md) - Understanding validation
+- [CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md) - Detailed evaluation questions
+- [COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md) - Evidence-based alternatives
+
 ---
 
 ## 🚨 Critical Red Flags (Major Concerns)
@@ -385,11 +390,12 @@ Count the red flags (🚩) from the list above:
 - Check professional organizations (APA, ABCT, etc.)
 - Look for peer-reviewed research on Google Scholar
 
-### For Understanding How AI Enables Pseudoscience:
-- **[AI_PSEUDOSCIENCE_TESTING_EDUCATIONAL_DOC.md](ai-pseudoscience-testing-educational-doc.md)** - Comparative study of how 7 major AI systems respond to pseudoscience formalization requests, with detailed methodology for understanding failure modes
+## Related Documents
 
-### For Staying Epistemically Vigilant:
-- **[AI_EPISTEMIC_HYGIENE_GUIDE.md](ai-epistemic-hygiene-guide.md)** - Practical techniques and escape phrases for maintaining critical thinking while interacting with AI systems
+- **[ai-pseudoscience-testing-educational-doc.md](ai-pseudoscience-testing-educational-doc.md)** - Comparative study of how 7 major AI systems respond to pseudoscience formalization requests, with detailed methodology for understanding failure modes
+
+
+- **[ai-epistemic-hygiene-guide.md](ai-epistemic-hygiene-guide.md)** - Practical techniques and escape phrases for maintaining critical thinking while interacting with AI systems
 
 ---
 

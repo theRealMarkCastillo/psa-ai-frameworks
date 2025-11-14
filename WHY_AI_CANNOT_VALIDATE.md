@@ -8,6 +8,8 @@
 
 **Educational Note**: This document is not attacking anyone who has made this mistake. It's extremely easy to believe AI validation is real validation when you're deep in collaboration with AI systems. This can happen to intelligent, well-intentioned people.
 
+**Methodological Note**: This educational resource uses AI as an articulation tool. For the distinction between legitimate AI-assisted research and AI-elaborated pseudoscience, see [AI_Use_Methodological_Distinctions.md](AI_Use_Methodological_Distinctions.md).
+
 ---
 
 ## The Common Claim
@@ -127,6 +129,7 @@ The AI will analyze:
 - Verify claims against existing evidence
 - Published in reputable journals
 - **Note**: "Peer review" means **human experts**, not "I asked 5 friends to test it in ChatGPT"
+- See [COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md) for examples
 
 #### 2. **Empirical Testing**
 - Controlled experiments with real participants
@@ -203,7 +206,7 @@ Week 16: "This is revolutionary—AI systems all agree!"
 Missing: Any actual testing with real people, peer review, or scientific validation
 ```
 
-**See Also**: [CASE_STUDY_VEF.md](CASE_STUDY_VEF.md) for a detailed real-world example of exactly this pattern
+**See Also**: [AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md) for a detailed real-world example of exactly this pattern
 
 ---
 

@@ -213,41 +213,69 @@ The Virtual Ego Framework demonstrates the pattern:
    - See how feedback loops work
    - Learn why it's convincing
 
-2. **[RED_FLAGS_CHECKLIST.md](RED_FLAGS_CHECKLIST.md)** (10 min)
+2. **[WHY_AI_CANNOT_VALIDATE.md](WHY_AI_CANNOT_VALIDATE.md)** (12 min)
+   - Why "try it in AI" isn't proof
+   - Understanding AI as elaborator not validator
+   - What real validation requires
+
+3. **[RED_FLAGS_CHECKLIST.md](RED_FLAGS_CHECKLIST.md)** (10 min)
    - Quick reference for warning signs
    - Decision tree for evaluation
    - Questions to ask creators
 
-3. **[CASE_STUDY_VEF.md](CASE_STUDY_VEF.md)** (20 min)
+4. **[AI_Amplified_Belief_Systems_Case_Study.md](AI_Amplified_Belief_Systems_Case_Study.md)** (20 min)
    - Real-world example
    - Educational analysis
    - Pattern recognition practice
 
-4. **[CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md)** (30 min)
+5. **[SUBJECT_A_CASE_STUDY_PUBLICATION.md](SUBJECT_A_CASE_STUDY_PUBLICATION.md)** (30 min)
+   - Research-style case study format
+   - Meta-awareness paradox analysis
+   - Intelligence as risk factor in AI collaboration
+
+5. **[CRITICAL_THINKING_TOOLKIT.md](CRITICAL_THINKING_TOOLKIT.md)** (30 min)
    - Practical evaluation tools
    - Questions to ask yourself
    - Comparison methods
 
-5. **[COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md)** (20 min)
+6. **[COMPARISON_TO_VALIDATED_FRAMEWORKS.md](COMPARISON_TO_VALIDATED_FRAMEWORKS.md)** (20 min)
    - Evidence-based alternatives
    - Cost comparison
    - How to find legitimate help
 
 ### For Practical Tactics:
 
-6. **[AI_EPISTEMIC_HYGIENE_GUIDE.md](ai-epistemic-hygiene-guide.md)** (25 min)
-   - Escape phrases to break out of elaboration loops
-   - How to prompt AI for critical thinking
-   - Public intervention strategies for communities
-   - Teaching others to stay skeptical
+6. **[ai-epistemic-hygiene-guide.md](ai-epistemic-hygiene-guide.md)** (15 min)
+   - Best practices for AI use
+   - Avoiding validation loops
+   - Maintaining critical thinking
 
-7. **[AI_PSEUDOSCIENCE_TESTING_EDUCATIONAL_DOC.md](ai-pseudoscience-testing-educational-doc.md)** (30 min)
+8. **[ai-pseudoscience-testing-educational-doc.md](ai-pseudoscience-testing-educational-doc.md)** (30 min)
    - Comparative analysis of how 7 major AI systems failed
    - Why capable models can be more dangerous
    - Research methodology and findings
    - Advanced safety implications
 
-**Total reading time: 2-2.5 hours (including advanced resources)**
+### For Understanding Research Methodology:
+
+9. **[AI_Use_Methodological_Distinctions.md](AI_Use_Methodological_Distinctions.md)** (10 min)
+   - Why using AI to study AI-enabled pseudoscience is valid
+   - Distinguishing legitimate research from pseudoscience
+   - Responding to "pot calling kettle black" objections
+
+### For Quick Reference:
+
+10. **[FAQ.md](FAQ.md)** (variable)
+   - Comprehensive answers to common questions
+   - Questions for creators and users
+   - Finding evidence-based help
+
+11. **[COMMON_REBUTTALS.md](COMMON_REBUTTALS.md)** (variable)
+   - Responses to common objections
+   - How to maintain productive conversations
+   - Handling defensive reactions
+
+**Total reading time: 2.5-3 hours (including advanced resources)**
 
 ---
 
